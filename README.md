@@ -1,6 +1,6 @@
 # One Month Rails
 
-This is the pinteresting sample applications for
-[*One Month Rails*](http://onemonthrails.com)
+This is the pinteresting sample applications for my super awesome
+[*One Month Rails*](http://onemonthrails.com) project
 
-by [David Jones](http://davejones.ca)
+by [David Jones](http://davejones.ca) or DoctorJones.  Whatever you like.
